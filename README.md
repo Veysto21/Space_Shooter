@@ -1,9 +1,9 @@
 # Space_Shooter
-Overview
+Overview:
 This space shooter game features a player-controlled spacecraft navigating through a dynamic environment. 
 The player can move the spacecraft horizontally and vertically, avoiding obstacles and firing lasers to destroy enemies.
 
-Features
+Features:
 Player Control: Move your spacecraft using arrow keys or joystick.
 Shooting Mechanism: Press the Space key to fire lasers and eliminate enemies.
 Boundary Constraints: Stay within the game boundaries to avoid collisions.
